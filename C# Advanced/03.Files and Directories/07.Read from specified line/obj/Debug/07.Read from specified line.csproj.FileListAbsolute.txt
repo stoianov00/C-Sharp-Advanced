@@ -1,0 +1,6 @@
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_3 Files and Directories Exerci\07.Read from specified line\bin\Debug\text.txt
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_3 Files and Directories Exerci\07.Read from specified line\bin\Debug\07.Read from specified line.exe.config
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_3 Files and Directories Exerci\07.Read from specified line\bin\Debug\07.Read from specified line.exe
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_3 Files and Directories Exerci\07.Read from specified line\bin\Debug\07.Read from specified line.pdb
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_3 Files and Directories Exerci\07.Read from specified line\obj\Debug\07.Read from specified line.exe
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_3 Files and Directories Exerci\07.Read from specified line\obj\Debug\07.Read from specified line.pdb

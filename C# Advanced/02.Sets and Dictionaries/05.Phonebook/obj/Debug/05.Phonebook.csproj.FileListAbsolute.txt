@@ -1,0 +1,6 @@
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_2 Sets and Dictionaries Exerci\05.Phonebook\bin\Debug\05.Phonebook.exe.config
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_2 Sets and Dictionaries Exerci\05.Phonebook\bin\Debug\05.Phonebook.exe
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_2 Sets and Dictionaries Exerci\05.Phonebook\bin\Debug\05.Phonebook.pdb
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_2 Sets and Dictionaries Exerci\05.Phonebook\obj\Debug\05.Phonebook.exe
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_2 Sets and Dictionaries Exerci\05.Phonebook\obj\Debug\05.Phonebook.pdb
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_2 Sets and Dictionaries Exerci\05.Phonebook\obj\Debug\05.Phonebook.csprojResolveAssemblyReference.cache

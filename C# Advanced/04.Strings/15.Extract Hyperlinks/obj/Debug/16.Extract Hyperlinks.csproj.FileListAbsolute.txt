@@ -1,0 +1,6 @@
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_5 Strings Exercise\16.Extract Hyperlinks\bin\Debug\16.Extract Hyperlinks.exe.config
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_5 Strings Exercise\16.Extract Hyperlinks\bin\Debug\16.Extract Hyperlinks.exe
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_5 Strings Exercise\16.Extract Hyperlinks\bin\Debug\16.Extract Hyperlinks.pdb
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_5 Strings Exercise\16.Extract Hyperlinks\obj\Debug\16.Extract Hyperlinks.csprojResolveAssemblyReference.cache
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_5 Strings Exercise\16.Extract Hyperlinks\obj\Debug\16.Extract Hyperlinks.exe
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_5 Strings Exercise\16.Extract Hyperlinks\obj\Debug\16.Extract Hyperlinks.pdb

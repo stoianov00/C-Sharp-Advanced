@@ -1,0 +1,9 @@
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_3 Files and Directories Exerci\04.Merge Files\bin\Debug\numbers1.txt
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_3 Files and Directories Exerci\04.Merge Files\bin\Debug\04.Merge Files.exe.config
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_3 Files and Directories Exerci\04.Merge Files\bin\Debug\04.Merge Files.exe
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_3 Files and Directories Exerci\04.Merge Files\bin\Debug\04.Merge Files.pdb
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_3 Files and Directories Exerci\04.Merge Files\obj\Debug\04.Merge Files.csprojResolveAssemblyReference.cache
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_3 Files and Directories Exerci\04.Merge Files\obj\Debug\04.Merge Files.exe
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_3 Files and Directories Exerci\04.Merge Files\obj\Debug\04.Merge Files.pdb
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_3 Files and Directories Exerci\04.Merge Files\bin\Debug\numbers2.txt
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_3 Files and Directories Exerci\04.Merge Files\bin\Debug\result.txt

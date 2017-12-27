@@ -1,0 +1,5 @@
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_5 Strings Exercise\13.Letters Change Numbers\bin\Debug\13.Letters Change Numbers.exe.config
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_5 Strings Exercise\13.Letters Change Numbers\bin\Debug\13.Letters Change Numbers.exe
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_5 Strings Exercise\13.Letters Change Numbers\bin\Debug\13.Letters Change Numbers.pdb
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_5 Strings Exercise\13.Letters Change Numbers\obj\Debug\13.Letters Change Numbers.exe
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_5 Strings Exercise\13.Letters Change Numbers\obj\Debug\13.Letters Change Numbers.pdb

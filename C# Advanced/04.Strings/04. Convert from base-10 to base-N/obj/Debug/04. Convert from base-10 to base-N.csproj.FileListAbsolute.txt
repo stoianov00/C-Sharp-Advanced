@@ -1,0 +1,6 @@
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_5 Strings Exercise\04. Convert from base-10 to base-N\bin\Debug\_04.Convert_from_base_10_to_base_N.exe.config
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_5 Strings Exercise\04. Convert from base-10 to base-N\bin\Debug\_04.Convert_from_base_10_to_base_N.exe
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_5 Strings Exercise\04. Convert from base-10 to base-N\bin\Debug\_04.Convert_from_base_10_to_base_N.pdb
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_5 Strings Exercise\04. Convert from base-10 to base-N\obj\Debug\04. Convert from base-10 to base-N.csprojResolveAssemblyReference.cache
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_5 Strings Exercise\04. Convert from base-10 to base-N\obj\Debug\_04.Convert_from_base_10_to_base_N.exe
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_5 Strings Exercise\04. Convert from base-10 to base-N\obj\Debug\_04.Convert_from_base_10_to_base_N.pdb

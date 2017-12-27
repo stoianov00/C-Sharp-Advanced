@@ -1,0 +1,6 @@
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_1 Stack and Queue Exercises\01.Reverse Numbers with a Stack\bin\Debug\01.Reverse Numbers with a Stack.exe.config
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_1 Stack and Queue Exercises\01.Reverse Numbers with a Stack\bin\Debug\01.Reverse Numbers with a Stack.exe
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_1 Stack and Queue Exercises\01.Reverse Numbers with a Stack\bin\Debug\01.Reverse Numbers with a Stack.pdb
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_1 Stack and Queue Exercises\01.Reverse Numbers with a Stack\obj\Debug\01.Reverse Numbers with a Stack.csprojResolveAssemblyReference.cache
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_1 Stack and Queue Exercises\01.Reverse Numbers with a Stack\obj\Debug\01.Reverse Numbers with a Stack.exe
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_1 Stack and Queue Exercises\01.Reverse Numbers with a Stack\obj\Debug\01.Reverse Numbers with a Stack.pdb

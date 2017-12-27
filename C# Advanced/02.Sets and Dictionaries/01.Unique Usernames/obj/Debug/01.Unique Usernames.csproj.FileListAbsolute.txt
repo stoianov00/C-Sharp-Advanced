@@ -1,0 +1,6 @@
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_2 Sets and Dictionaries Exerci\01.Unique Usernames\bin\Debug\01.Unique Usernames.exe.config
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_2 Sets and Dictionaries Exerci\01.Unique Usernames\bin\Debug\01.Unique Usernames.exe
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_2 Sets and Dictionaries Exerci\01.Unique Usernames\bin\Debug\01.Unique Usernames.pdb
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_2 Sets and Dictionaries Exerci\01.Unique Usernames\obj\Debug\01.Unique Usernames.csprojResolveAssemblyReference.cache
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_2 Sets and Dictionaries Exerci\01.Unique Usernames\obj\Debug\01.Unique Usernames.exe
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_2 Sets and Dictionaries Exerci\01.Unique Usernames\obj\Debug\01.Unique Usernames.pdb

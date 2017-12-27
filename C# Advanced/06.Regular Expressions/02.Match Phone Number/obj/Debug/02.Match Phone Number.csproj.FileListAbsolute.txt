@@ -1,0 +1,5 @@
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_6 Regular Expressions Exercise\02.Match Phone Number\bin\Debug\02.Match Phone Number.exe.config
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_6 Regular Expressions Exercise\02.Match Phone Number\bin\Debug\02.Match Phone Number.exe
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_6 Regular Expressions Exercise\02.Match Phone Number\bin\Debug\02.Match Phone Number.pdb
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_6 Regular Expressions Exercise\02.Match Phone Number\obj\Debug\02.Match Phone Number.exe
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_6 Regular Expressions Exercise\02.Match Phone Number\obj\Debug\02.Match Phone Number.pdb

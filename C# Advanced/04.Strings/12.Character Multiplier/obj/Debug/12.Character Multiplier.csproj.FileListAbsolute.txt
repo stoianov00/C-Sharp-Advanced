@@ -1,0 +1,5 @@
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_5 Strings Exercise\12.Character Multiplier\bin\Debug\12.Character Multiplier.exe.config
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_5 Strings Exercise\12.Character Multiplier\bin\Debug\12.Character Multiplier.exe
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_5 Strings Exercise\12.Character Multiplier\bin\Debug\12.Character Multiplier.pdb
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_5 Strings Exercise\12.Character Multiplier\obj\Debug\12.Character Multiplier.exe
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_5 Strings Exercise\12.Character Multiplier\obj\Debug\12.Character Multiplier.pdb

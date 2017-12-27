@@ -1,0 +1,6 @@
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_8 Built-in Query methods Exerc\10.Export to Excel\bin\Debug\10.Export to Excel.exe.config
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_8 Built-in Query methods Exerc\10.Export to Excel\bin\Debug\10.Export to Excel.exe
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_8 Built-in Query methods Exerc\10.Export to Excel\bin\Debug\10.Export to Excel.pdb
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_8 Built-in Query methods Exerc\10.Export to Excel\obj\Debug\10.Export to Excel.csprojResolveAssemblyReference.cache
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_8 Built-in Query methods Exerc\10.Export to Excel\obj\Debug\10.Export to Excel.exe
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_8 Built-in Query methods Exerc\10.Export to Excel\obj\Debug\10.Export to Excel.pdb

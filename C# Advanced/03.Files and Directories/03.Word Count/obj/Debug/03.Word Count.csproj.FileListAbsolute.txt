@@ -1,0 +1,8 @@
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_3 Files and Directories Exerci\03.Word Count\bin\Debug\text.txt
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_3 Files and Directories Exerci\03.Word Count\bin\Debug\words.txt
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_3 Files and Directories Exerci\03.Word Count\bin\Debug\03.Word Count.exe.config
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_3 Files and Directories Exerci\03.Word Count\bin\Debug\03.Word Count.exe
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_3 Files and Directories Exerci\03.Word Count\bin\Debug\03.Word Count.pdb
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_3 Files and Directories Exerci\03.Word Count\obj\Debug\03.Word Count.exe
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_3 Files and Directories Exerci\03.Word Count\obj\Debug\03.Word Count.pdb
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_3 Files and Directories Exerci\03.Word Count\bin\Debug\result.txt

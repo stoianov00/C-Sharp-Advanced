@@ -1,0 +1,9 @@
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_8 Built-in Query methods Exerc\05.Filter Students by Email Domain\bin\Debug\05.Filter Students by Email Domain.exe.config
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_8 Built-in Query methods Exerc\05.Filter Students by Email Domain\bin\Debug\05.Filter Students by Email Domain.exe
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_8 Built-in Query methods Exerc\05.Filter Students by Email Domain\bin\Debug\05.Filter Students by Email Domain.pdb
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_8 Built-in Query methods Exerc\05.Filter Students by Email Domain\bin\Debug\01.Students by Group.exe
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_8 Built-in Query methods Exerc\05.Filter Students by Email Domain\bin\Debug\01.Students by Group.pdb
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_8 Built-in Query methods Exerc\05.Filter Students by Email Domain\bin\Debug\01.Students by Group.exe.config
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_8 Built-in Query methods Exerc\05.Filter Students by Email Domain\obj\Debug\05.Filter Students by Email Domain.csprojResolveAssemblyReference.cache
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_8 Built-in Query methods Exerc\05.Filter Students by Email Domain\obj\Debug\05.Filter Students by Email Domain.exe
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_8 Built-in Query methods Exerc\05.Filter Students by Email Domain\obj\Debug\05.Filter Students by Email Domain.pdb

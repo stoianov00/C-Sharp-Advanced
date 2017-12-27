@@ -1,0 +1,5 @@
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_6 Regular Expressions Exercise\06.Sentence Extractor\bin\Debug\06.Sentence Extractor.exe.config
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_6 Regular Expressions Exercise\06.Sentence Extractor\bin\Debug\06.Sentence Extractor.exe
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_6 Regular Expressions Exercise\06.Sentence Extractor\bin\Debug\06.Sentence Extractor.pdb
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_6 Regular Expressions Exercise\06.Sentence Extractor\obj\Debug\06.Sentence Extractor.exe
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_6 Regular Expressions Exercise\06.Sentence Extractor\obj\Debug\06.Sentence Extractor.pdb

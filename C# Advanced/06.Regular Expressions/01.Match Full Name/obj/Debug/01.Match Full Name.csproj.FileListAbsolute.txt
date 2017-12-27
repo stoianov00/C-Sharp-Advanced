@@ -1,0 +1,6 @@
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_6 Regular Expressions Exercise\01.Match Full Name\bin\Debug\01.Match Full Name.exe.config
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_6 Regular Expressions Exercise\01.Match Full Name\bin\Debug\01.Match Full Name.exe
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_6 Regular Expressions Exercise\01.Match Full Name\bin\Debug\01.Match Full Name.pdb
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_6 Regular Expressions Exercise\01.Match Full Name\obj\Debug\01.Match Full Name.csprojResolveAssemblyReference.cache
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_6 Regular Expressions Exercise\01.Match Full Name\obj\Debug\01.Match Full Name.exe
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_6 Regular Expressions Exercise\01.Match Full Name\obj\Debug\01.Match Full Name.pdb

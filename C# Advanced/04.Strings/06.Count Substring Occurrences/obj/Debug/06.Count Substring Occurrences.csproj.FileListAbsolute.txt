@@ -1,0 +1,5 @@
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_5 Strings Exercise\06.Count Substring Occurrences\bin\Debug\06.Count Substring Occurrences.exe.config
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_5 Strings Exercise\06.Count Substring Occurrences\bin\Debug\06.Count Substring Occurrences.exe
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_5 Strings Exercise\06.Count Substring Occurrences\bin\Debug\06.Count Substring Occurrences.pdb
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_5 Strings Exercise\06.Count Substring Occurrences\obj\Debug\06.Count Substring Occurrences.exe
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_5 Strings Exercise\06.Count Substring Occurrences\obj\Debug\06.Count Substring Occurrences.pdb

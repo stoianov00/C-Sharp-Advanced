@@ -1,0 +1,6 @@
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_7 LambdaExpressions Exercise\05.Applied Arithmetics\bin\Debug\05.Applied Arithmetics.exe.config
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_7 LambdaExpressions Exercise\05.Applied Arithmetics\bin\Debug\05.Applied Arithmetics.exe
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_7 LambdaExpressions Exercise\05.Applied Arithmetics\bin\Debug\05.Applied Arithmetics.pdb
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_7 LambdaExpressions Exercise\05.Applied Arithmetics\obj\Debug\05.Applied Arithmetics.exe
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_7 LambdaExpressions Exercise\05.Applied Arithmetics\obj\Debug\05.Applied Arithmetics.pdb
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_7 LambdaExpressions Exercise\05.Applied Arithmetics\obj\Debug\05.Applied Arithmetics.csprojResolveAssemblyReference.cache

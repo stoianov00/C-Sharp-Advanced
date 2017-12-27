@@ -1,0 +1,5 @@
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_3 Files and Directories Exerci\05.Folder Size\bin\Debug\05.Folder Size.exe.config
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_3 Files and Directories Exerci\05.Folder Size\bin\Debug\05.Folder Size.exe
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_3 Files and Directories Exerci\05.Folder Size\bin\Debug\05.Folder Size.pdb
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_3 Files and Directories Exerci\05.Folder Size\obj\Debug\05.Folder Size.exe
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_3 Files and Directories Exerci\05.Folder Size\obj\Debug\05.Folder Size.pdb

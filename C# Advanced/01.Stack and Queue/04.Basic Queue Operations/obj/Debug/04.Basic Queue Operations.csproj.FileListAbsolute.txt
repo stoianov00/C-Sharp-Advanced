@@ -1,0 +1,5 @@
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_1 Stack and Queue Exercises\04.Basic Queue Operations\bin\Debug\04.Basic Queue Operations.exe.config
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_1 Stack and Queue Exercises\04.Basic Queue Operations\bin\Debug\04.Basic Queue Operations.exe
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_1 Stack and Queue Exercises\04.Basic Queue Operations\bin\Debug\04.Basic Queue Operations.pdb
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_1 Stack and Queue Exercises\04.Basic Queue Operations\obj\Debug\04.Basic Queue Operations.exe
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_1 Stack and Queue Exercises\04.Basic Queue Operations\obj\Debug\04.Basic Queue Operations.pdb

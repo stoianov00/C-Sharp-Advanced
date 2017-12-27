@@ -1,0 +1,7 @@
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_3 Files and Directories Exerci\06.Timer\bin\Debug\06.Timer.exe.config
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_3 Files and Directories Exerci\06.Timer\bin\Debug\06.Timer.exe
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_3 Files and Directories Exerci\06.Timer\bin\Debug\06.Timer.pdb
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_3 Files and Directories Exerci\06.Timer\obj\Debug\06.Timer.exe
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_3 Files and Directories Exerci\06.Timer\obj\Debug\06.Timer.pdb
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_3 Files and Directories Exerci\06.Timer\bin\Debug\text.txt
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_3 Files and Directories Exerci\06.Timer\bin\Debug\text2.txt

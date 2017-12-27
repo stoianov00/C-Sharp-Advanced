@@ -1,0 +1,6 @@
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_2 Sets and Dictionaries Exerci\13.Parking System\bin\Debug\13.Parking System.exe.config
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_2 Sets and Dictionaries Exerci\13.Parking System\bin\Debug\13.Parking System.exe
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_2 Sets and Dictionaries Exerci\13.Parking System\bin\Debug\13.Parking System.pdb
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_2 Sets and Dictionaries Exerci\13.Parking System\obj\Debug\13.Parking System.csprojResolveAssemblyReference.cache
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_2 Sets and Dictionaries Exerci\13.Parking System\obj\Debug\13.Parking System.exe
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_2 Sets and Dictionaries Exerci\13.Parking System\obj\Debug\13.Parking System.pdb

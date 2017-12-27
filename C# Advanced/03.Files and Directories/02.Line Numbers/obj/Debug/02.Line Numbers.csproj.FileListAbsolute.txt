@@ -1,0 +1,7 @@
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_3 Files and Directories Exerci\02.Line Numbers\bin\Debug\02.Line Numbers.exe.config
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_3 Files and Directories Exerci\02.Line Numbers\bin\Debug\02.Line Numbers.exe
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_3 Files and Directories Exerci\02.Line Numbers\bin\Debug\02.Line Numbers.pdb
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_3 Files and Directories Exerci\02.Line Numbers\obj\Debug\02.Line Numbers.exe
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_3 Files and Directories Exerci\02.Line Numbers\obj\Debug\02.Line Numbers.pdb
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_3 Files and Directories Exerci\02.Line Numbers\bin\Debug\result.txt
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_3 Files and Directories Exerci\02.Line Numbers\bin\Debug\text.txt

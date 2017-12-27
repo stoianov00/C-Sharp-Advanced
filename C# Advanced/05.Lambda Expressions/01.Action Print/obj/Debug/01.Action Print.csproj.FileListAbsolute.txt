@@ -1,0 +1,6 @@
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_7 LambdaExpressions Exercise\01.Action Print\bin\Debug\01.Action Print.exe.config
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_7 LambdaExpressions Exercise\01.Action Print\bin\Debug\01.Action Print.exe
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_7 LambdaExpressions Exercise\01.Action Print\bin\Debug\01.Action Print.pdb
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_7 LambdaExpressions Exercise\01.Action Print\obj\Debug\01.Action Print.csprojResolveAssemblyReference.cache
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_7 LambdaExpressions Exercise\01.Action Print\obj\Debug\01.Action Print.exe
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_7 LambdaExpressions Exercise\01.Action Print\obj\Debug\01.Action Print.pdb

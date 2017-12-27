@@ -1,0 +1,6 @@
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_6 Regular Expressions Exercise\04.Replace a tag\bin\Debug\04.Replace a tag.exe.config
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_6 Regular Expressions Exercise\04.Replace a tag\bin\Debug\04.Replace a tag.exe
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_6 Regular Expressions Exercise\04.Replace a tag\bin\Debug\04.Replace a tag.pdb
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_6 Regular Expressions Exercise\04.Replace a tag\obj\Debug\04.Replace a tag.exe
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_6 Regular Expressions Exercise\04.Replace a tag\obj\Debug\04.Replace a tag.pdb
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_6 Regular Expressions Exercise\04.Replace a tag\obj\Debug\04.Replace a tag.csprojResolveAssemblyReference.cache

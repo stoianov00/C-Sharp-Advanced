@@ -1,0 +1,6 @@
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_7 LambdaExpressions Exercise\08.Custom Comparator\bin\Debug\08.Custom Comparator.exe.config
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_7 LambdaExpressions Exercise\08.Custom Comparator\bin\Debug\08.Custom Comparator.exe
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_7 LambdaExpressions Exercise\08.Custom Comparator\bin\Debug\08.Custom Comparator.pdb
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_7 LambdaExpressions Exercise\08.Custom Comparator\obj\Debug\08.Custom Comparator.csprojResolveAssemblyReference.cache
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_7 LambdaExpressions Exercise\08.Custom Comparator\obj\Debug\08.Custom Comparator.exe
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Advanced\lecture_7 LambdaExpressions Exercise\08.Custom Comparator\obj\Debug\08.Custom Comparator.pdb
